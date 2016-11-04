@@ -13,6 +13,9 @@ repos = [
     ), (
         "https://android.googlesource.com/device/lge/hammerhead-kernel",
         "device/lge/hammerhead-kernel"
+    ), (
+        "https://android.googlesource.com/platform/prebuilts/build-tools",
+        "prebuilts/build-tools"
     )
 ]
 
