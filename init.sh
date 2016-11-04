@@ -1,2 +1,3 @@
-git submodule init && \
-  git submodule update --depth 1
+set -xe
+git submodule init
+git submodule update --depth 1
