@@ -19,3 +19,6 @@
 [submodule "prebuilts/build-tools"]
 	path = prebuilts/build-tools
 	url = https://android.googlesource.com/platform/prebuilts/build-tools
+[submodule "prebuilts/go/linux-x86"]
+	path = prebuilts/go/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/go/linux-x86
