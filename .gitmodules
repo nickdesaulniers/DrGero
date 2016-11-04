@@ -1,0 +1,18 @@
+[submodule "platform/frameworks/native"]
+	path = platform/frameworks/native
+	url = https://android.googlesource.com/platform/frameworks/native
+[submodule "platform/build"]
+	path = platform/build
+	url = https://android.googlesource.com/platform/build
+[submodule "device/lge/hammerhead"]
+	path = device/lge/hammerhead
+	url = https://android.googlesource.com/device/lge/hammerhead
+[submodule "device/lge/hammerhead-kernel"]
+	path = device/lge/hammerhead-kernel
+	url = https://android.googlesource.com/device/lge/hammerhead-kernel
+[submodule "frameworks/native"]
+	path = frameworks/native
+	url = https://android.googlesource.com/platform/frameworks/native
+[submodule "build"]
+	path = build
+	url = https://android.googlesource.com/platform/build
