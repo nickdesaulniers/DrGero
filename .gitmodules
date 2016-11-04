@@ -16,3 +16,6 @@
 [submodule "build"]
 	path = build
 	url = https://android.googlesource.com/platform/build
+[submodule "prebuilts/build-tools"]
+	path = prebuilts/build-tools
+	url = https://android.googlesource.com/platform/prebuilts/build-tools
