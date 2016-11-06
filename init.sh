@@ -6,6 +6,7 @@ cp build/core/root.mk Makefile
 cd build
 git clone --depth 1 https://android.googlesource.com/platform/build/soong
 git clone --depth 1 https://android.googlesource.com/platform/build/blueprint
+cit clone --depth 1 git clone https://android.googlesource.com/platform/build/kati
 cd -
 # http://stackoverflow.com/a/37629211/1027966
 ln -s build/soong/bootstrap.bash
