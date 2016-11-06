@@ -19,3 +19,6 @@
 [submodule "prebuilts/clang/host/linux-x86"]
 	path = prebuilts/clang/host/linux-x86
 	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
+[submodule "prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8"]
+	path = prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-4.8
