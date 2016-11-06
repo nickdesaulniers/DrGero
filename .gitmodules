@@ -16,3 +16,6 @@
 [submodule "prebuilts/go/linux-x86"]
 	path = prebuilts/go/linux-x86
 	url = https://android.googlesource.com/platform/prebuilts/go/linux-x86
+[submodule "prebuilts/clang/host/linux-x86"]
+	path = prebuilts/clang/host/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86
