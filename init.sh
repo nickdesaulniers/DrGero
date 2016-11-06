@@ -20,5 +20,5 @@ check_clone https://android.googlesource.com/platform/build/blueprint
 check_clone https://android.googlesource.com/platform/build/kati
 cd -
 # http://stackoverflow.com/a/37629211/1027966
-ln -s build/soong/bootstrap.bash
-ln -s build/soong/Android.bp
+ln -sf build/soong/bootstrap.bash
+ln -sf build/soong/Android.bp
