@@ -25,3 +25,6 @@
 [submodule "prebuilts/sdk"]
 	path = prebuilts/sdk
 	url = https://android.googlesource.com/platform/prebuilts/sdk
+[submodule "prebuilts/ninja/linux-x86"]
+	path = prebuilts/ninja/linux-x86
+	url = https://android.googlesource.com/platform/prebuilts/ninja/linux-x86
