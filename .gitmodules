@@ -31,3 +31,6 @@
 [submodule "system/core"]
 	path = system/core
 	url = https://android.googlesource.com/platform/system/core
+[submodule "external/llvm"]
+	path = external/llvm
+	url = https://android.googlesource.com/platform/external/llvm
